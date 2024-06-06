@@ -1,2 +1,2 @@
 # its-true
-Simple function that returns if a value it is true or not.
+Simple script that returns whether a value seems to be true or not.
